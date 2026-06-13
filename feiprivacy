@@ -1,0 +1,27 @@
+Privacy Policy of the 放飞直播助手-LiveStreamingAssistant 
+1. Data Processed by the App
+Local Live Assistant is designed for local processing. The app may store scripts, teleprompter cards, flow templates, live timer data, reminder logs, manual markers, audio statistics, review summaries, personal notes, settings, VIP status, and local audio files on your device. The current build does not require account login, does not provide cloud sync, and does not actively upload this content to our servers.
+
+2. Microphone Permission
+Microphone permission is used for local recording, volume detection, silence detection, low-volume warnings, and clipping reminders. Audio files are stored locally on your device. Audio statistics are used for in-live prompts and post-live review. You can disable recording and voice detection in settings, delete local recordings, or clear local data. If microphone permission is disabled, recording and voice-related statistics may not work.
+
+3. Camera Permission
+Camera permission is used for VIP camera status detection, such as checking whether a face is in frame and whether the image is too dark or too bright. Camera frames are used only for on-device real-time analysis. The app does not actively save or upload camera frames. You can disable camera detection in app settings or revoke camera permission in system settings.
+
+4. Notification Permission
+Notification permission is used for live stage reminders, cycle reminders, voice status reminders, and host status reminders. Notification content is generated from your selected templates, reminder rules, and local detection results. You can disable notifications in the app or system settings.
+
+5. Local Storage and Cleanup
+Scripts, templates, reviews, settings, and audio files are stored in the app sandbox on your device. Free users can retain recordings for up to 7 days. VIP users can configure longer retention and manage audio files. Clearing local data deletes scripts, templates, reviews, and recordings; deletion is usually irreversible, so please use it carefully.
+
+6. Export and Sharing
+When you export a review as a VIP feature, the app creates a TXT or Markdown file locally and opens the iOS share sheet. Your selected destination may be a third-party app or service, and exported files are then subject to that third party's privacy policy. Avoid exporting or sharing files containing personal information, unauthorized recordings, business secrets, or sensitive live data.
+
+7. Membership and Subscription Data
+Subscription products and transactions are handled by the App Store through StoreKit. The app checks current App Store entitlements for yearvip and weekvip and stores the resulting VIP access status locally so membership features can be shown quickly. Billing, payment method data, refunds, cancellation, and trial eligibility are managed by Apple and are not stored by this app.
+
+8. Minors and Compliance
+If you are a minor, use the app with consent and guidance from a guardian. You should comply with live platform rules, advertising laws, consumer protection requirements, personal information protection laws, and recording or camera-related laws.
+
+9. Your Controls
+You can manage microphone, camera, and notification permissions in system settings. You can manage subscriptions in App Store account settings. You can clear local data, delete recordings, adjust audio retention, and disable related detection features in app settings.
