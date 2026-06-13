@@ -1,0 +1,21 @@
+放飞直播助手-LiveStreamingAssistant User Agreement
+1. Service Description
+Local Live Assistant is a local productivity app for streamers, rehearsal users, and content creators. It helps you manage scripts, teleprompter cards, live flow templates, pre-live checks, in-live reminders, voice status detection, camera status detection, audio file management, and post-live reviews. The current app does not provide account login, cloud sync, or live platform API integration. Its core features run on your device.
+
+2. User Content and Responsibility
+Scripts, cards, flow templates, markers, personal notes, recordings, review reports, and exported files created in the app are your content. You are responsible for making sure your content and live usage comply with applicable laws, platform rules, advertising rules, privacy requirements, and third-party rights. Do not use the app for illegal, harmful, fraudulent, infringing, harassing, privacy-violating, or platform-prohibited activities. You are responsible for statements, promotions, promises, and external sharing made during your live sessions.
+
+3. Local Recording and Camera Use
+When local recording and voice detection are enabled, the app uses the microphone to create local recordings and calculate volume, silence, low-volume, and clipping status for reminders and review. The app does not actively upload recordings to a server. When VIP camera status detection is enabled, the app uses the camera to estimate whether your face is in frame and whether the frame is too dark or too bright. Camera analysis is performed on device. You should make sure people in the recording or camera environment are aware of and consent to the use of microphone or camera features.
+
+4. VIP Membership and Subscription
+VIP unlocks enhanced features including review export, camera status detection, audio playback, audio file management, expired audio cleanup, and audio retention beyond 7 days. The VIP page offers yearly and weekly auto-renewable subscription products with product IDs yearvip and weekvip. A 3-day free trial may be available when configured in App Store Connect and when you are eligible under App Store rules. After the free trial, the selected yearly or weekly plan renews automatically unless canceled at least 24 hours before the current period ends. Subscription management, cancellation, billing, and refunds are handled by the App Store.
+
+5. Export and Third-Party Sharing
+Review export uses the iOS share sheet to send TXT or Markdown files to the destination you choose, such as Files, messaging apps, cloud drives, or other apps. After export, the selected third-party service handles the file under its own terms and privacy practices. Please review exported content before sharing, especially if it contains personal information, sensitive notes, business information, or audio summaries.
+
+6. Disclaimer
+This app is an assistance and productivity tool. It does not guarantee live sales, audience growth, platform recommendations, conversion rate, income, or other performance results. Voice detection, camera status detection, and review suggestions are based on local rules and device capabilities and may be affected by noise, lighting, device model, permission status, and system limitations. You remain responsible for judging your content, pacing, and compliance risks.
+
+7. Changes to the Service
+We may update features, membership benefits, text, and these terms as the product evolves. Continued use of the app means you accept the updated terms.
